@@ -48,7 +48,7 @@
     * 현재는 정보의 인터넷
     * 주식 거래: 거래 당사자는 사본을 가지고 있고, 원본 장부는 증권예탁원과 금융결제원에 있다. 주식 매도에 3일이 걸리는 이유는 여러 공인 기간 (민간 TTP:Trusted Third Party, 공공 TTP) 간에 주식 이동이 일어나기 때문에
     * 반면 블록체인은 `소유권 원본`을 거래한다.
-    * 기존 시스템에 대한 비유: Goldberg Machine
+    * 기존 시스템에 대한 비유: [Goldberg Machine: 간단한 작업을 복잡하게 해결하는 사람을 풍자](https://s-media-cache-ak0.pinimg.com/736x/1e/2a/a2/1e2aa21c9241c702db548c9b078c9f53--rube-goldberg-machine-project-based-learning.jpg)
     * 기존에는 복사본을 원본 대접하면서 처리했지만, 블록 체인을 이용하면 원본을 상대방과 내가 직접 거래할 수 있다.
         * 스웨덴: 블록체인 기반의 토지거래 시스템 시범 운영. [chromaway](http://chromaway.com/landregistry/)
 * Industry 4.0
